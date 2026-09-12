@@ -13,13 +13,13 @@
 <p>Pas de .lproj : AppKit résout les bundles de localisation une fois au lancement, donc un changement de langue n'apparaîtrait qu'après avoir quitté et rouvert l'app — ce que personne ne fait pour vérifier un réglage. À cette échelle, deux colonnes de texte dans un fichier Swift se relisent mieux que deux .strings, et une clé oubliée devient une erreur de compilation au lieu d'une chaîne brute affichée à l'écran.</p>
 <p>AppDelegate passe @MainActor : Reglages y est isolé, et les rappels de NSApplicationDelegate arrivent déjà sur le thread principal.</p>
       ]]></description>
-      <pubDate>Sat, 12 Sep 2026 15:31:33 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:33:52 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/gambidrissi-dev/shortcut-Share/releases/download/v2.0.0/Shortcut-2.0.0.zip"
-                 sparkle:edSignature="O78M7FOWBy7++DVd+HTgeOWYymKwOKl11voPrqP8hGLeLJK8Ke1d1o7JuAYR2LBLuJkNAVfgeohCjxdITQwyAg=="
-                 length="1338802"
+                 sparkle:edSignature="ohVGKXQhJUt+xMnPia5ldKj/Y6kA8OZ3v0tmJvanzVsuLiZ6welC23L/OSfNlRtpRLkgvsKChSF7k/XcLrkNCw=="
+                 length="1338806"
                  type="application/octet-stream" />
     </item>
     <item>
